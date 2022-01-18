@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form > input {
+  margin-bottom: 11px;
+  width: 333px;
+}
+
+form div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
